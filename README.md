@@ -1,8 +1,21 @@
-# React + Vite
+# CryptoTop10 App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+CryptoTop10 est une application web React permettant aux utilisateurs de consulter les 10 meilleures cryptomonnaies en temps réel, en utilisant l'API de CoinGecko. Les utilisateurs peuvent également accéder à des informations détaillées sur chaque cryptomonnaie ainsi qu'à une page de contact.
 
-Currently, two official plugins are available:
+## Installation
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+1. Clonez ce dépôt sur votre machine locale :
+
+git clone https://github.com/BillyRogier/React-app.git
+
+2. Accédez au répertoire du projet :
+
+cd React-app
+
+3. Installez les dépendances nécessaires :
+
+npm install
+
+## Utilisation
+
+npm run dev
